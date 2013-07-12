@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
-    <id>CSElement:1336168695485</id>
+    <id>CSElement:1336168695605</id>
     <name>SuperTestCSElement</name>
     <createdby>fwadmin</createdby>
-    <createddate>2013-07-12T07:40:13.483Z</createddate>
+    <createddate>2013-07-12T08:16:47.726Z</createddate>
     <description></description>
     <publist>FirstSiteII</publist>
-    <status>ED</status>
+    <status>PL</status>
     <subtype></subtype>
     <updatedby>fwadmin</updatedby>
-    <updateddate>2013-07-12T07:42:06.794Z</updateddate>
+    <updateddate>2013-07-12T08:04:47.000Z</updateddate>
     <attribute>
         <name>startdate</name>
         <data/>
@@ -59,7 +59,7 @@
     <attribute>
         <name>id</name>
         <data>
-            <longValue>1336168695485</longValue>
+            <longValue>1336168695605</longValue>
         </data>
     </attribute>
     <attribute>
@@ -99,7 +99,7 @@
     <attribute>
         <name>resdetails1</name>
         <data>
-            <stringValue>eid=1336168695485</stringValue>
+            <stringValue>eid=1336168695605</stringValue>
         </data>
     </attribute>
     <attribute>
@@ -112,7 +112,7 @@
         <name>url</name>
         <data>
             <blobValue>
-                <filename>SuperTestCSElement,0.jsp</filename>
+                <filename>SuperTestCSElement.jsp</filename>
                 <foldername></foldername>
                 <filedata></filedata>
             </blobValue>
@@ -129,14 +129,14 @@
     <dependency>
       <depType>N</depType>
       <resType>CSElement</resType>
-      <resId>1336168695485</resId>
+      <resId>1336168695605</resId>
       <uid>30b6e1e0-3d1d-4c3d-bfeb-06d82aa553d3</uid>
     </dependency>
   </list>
 </dependencies>
 ==================______________________==================
 #
-#Fri Jul 12 09:42:30 CEST 2013
+#Fri Jul 12 10:17:20 CEST 2013
 storable0=/ELEMENTS/JSP/SuperTestCSElement.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FSuperTestCSElement.jsp
 key=CSElement-30b6e1e0-3d1d-4c3d-bfeb-06d82aa553d3
 type=ASSETDATA

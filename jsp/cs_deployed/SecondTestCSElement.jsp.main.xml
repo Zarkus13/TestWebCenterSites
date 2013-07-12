@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
-    <id>CSElement:1336168695609</id>
-    <name>SuperTestCSElement2</name>
+    <id>CSElement:1336168695585</id>
+    <name>SecondTestCSElement</name>
     <createdby>fwadmin</createdby>
-    <createddate>2013-07-12T08:16:47.817Z</createddate>
+    <createddate>2013-07-11T15:11:56.688Z</createddate>
     <description></description>
-    <publist>FirstSiteII</publist>
+    <publist>avisports</publist>
     <status>PL</status>
     <subtype></subtype>
     <updatedby>fwadmin</updatedby>
-    <updateddate>2013-07-12T08:04:47.000Z</updateddate>
+    <updateddate>2013-07-11T15:11:56.698Z</updateddate>
     <attribute>
         <name>startdate</name>
         <data/>
@@ -53,13 +53,13 @@
     <attribute>
         <name>fw_uid</name>
         <data>
-            <stringValue>6c3ac517-9f43-4ebb-9492-a4c761e83f12</stringValue>
+            <stringValue>c99864d1-1bc0-4385-98bf-46131dc27f7d</stringValue>
         </data>
     </attribute>
     <attribute>
         <name>id</name>
         <data>
-            <longValue>1336168695609</longValue>
+            <longValue>1336168695585</longValue>
         </data>
     </attribute>
     <attribute>
@@ -87,19 +87,19 @@
     <attribute>
         <name>rootelement</name>
         <data>
-            <stringValue>SuperTestCSElement2</stringValue>
+            <stringValue>SecondTestCSElement</stringValue>
         </data>
     </attribute>
     <attribute>
         <name>elementname</name>
         <data>
-            <stringValue>SuperTestCSElement2</stringValue>
+            <stringValue>SecondTestCSElement</stringValue>
         </data>
     </attribute>
     <attribute>
         <name>resdetails1</name>
         <data>
-            <stringValue>eid=1336168695609</stringValue>
+            <stringValue>eid=1336168695585</stringValue>
         </data>
     </attribute>
     <attribute>
@@ -112,7 +112,7 @@
         <name>url</name>
         <data>
             <blobValue>
-                <filename>SuperTestCSElement2.jsp</filename>
+                <filename>SecondTestCSElement.jsp</filename>
                 <foldername></foldername>
                 <filedata></filedata>
             </blobValue>
@@ -129,17 +129,17 @@
     <dependency>
       <depType>N</depType>
       <resType>CSElement</resType>
-      <resId>1336168695609</resId>
-      <uid>6c3ac517-9f43-4ebb-9492-a4c761e83f12</uid>
+      <resId>1336168695585</resId>
+      <uid>c99864d1-1bc0-4385-98bf-46131dc27f7d</uid>
     </dependency>
   </list>
 </dependencies>
 ==================______________________==================
 #
-#Fri Jul 12 10:17:20 CEST 2013
-storable0=/ELEMENTS/JSP/SuperTestCSElement2.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FSuperTestCSElement2.jsp
-key=CSElement-6c3ac517-9f43-4ebb-9492-a4c761e83f12
+#Thu Jul 11 17:12:52 CEST 2013
+storable0=/ELEMENTS/JSP/SecondTestCSElement.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FSecondTestCSElement.jsp
+key=CSElement-c99864d1-1bc0-4385-98bf-46131dc27f7d
 type=ASSETDATA
-sites=FirstSiteII
+sites=avisports
 
 ==================___ END METADATA ___==================-->
